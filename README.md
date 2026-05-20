@@ -1,6 +1,5 @@
-# OfficePilot
-AI-powered workplace productivity platform for employees.
-
+# smartoffice-ai-sme-assistant
+AI productivity assistant for nontechnical workplace staff.
 
 ## Overview
 
